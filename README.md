@@ -1,4 +1,4 @@
-# Hi — I’m Lucas González Biedma
+# Hi there I’m Lucas González-Biedma
 
 I’m a **Chilean sociologist (MA, Pontificia Universidad Católica de Chile)** working at the intersection of **quantitative and cualitative social research** and **policy-relevant evidence**. My work spans **youth justice and delinquency**, **political identities**, **vicarious memories of political violence**, and applied research in public institutions and consulting.
 
