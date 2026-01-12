@@ -24,13 +24,13 @@ I’m a **Chilean sociologist (MA, Pontificia Universidad Católica de Chile)** 
 ---
 
 ## Research interests
-**Youth delinquency & reintegration** · **social violence and authority** · **political identities** · **memory & post-dictatorship legacies** · **comparative and applied social research**
+**Youth delinquency & reintegration** · **Social violence and authority** · **Social and Political identities** · **Memory, Vicarious Memories & chilean post-dictatorship legacies** · **comparative and applied social research**
 
 ---
 
 ## Tools & methods
-- **R / RStudio**: data cleaning, transformation, visualization, descriptive & inferential statistics  
-- **Stata**: data management and statistical analysis  
+- **RStudio**: data cleaning, transformation, visualization, descriptive & inferential statistics  
+- **STATA**: data management and descriptive & inferential statistical analysis  
 - **NVivo / Atlas.ti**: qualitative coding and transcript analysis  
 - (Currently expanding): reproducible reporting and version control practices for open, auditable research
 
