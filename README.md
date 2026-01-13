@@ -18,8 +18,8 @@ I’m a **Chilean sociologist (MA, Pontificia Universidad Católica de Chile)** 
 ---
 
 ## Selected publications
-- **González-Biedma, L. (forthcoming-accepted)** — *Delinquency profiles among convicted youth in Chile: Latent Class Analysis and associated sociodemographic factors.* *Señales para la reinserción social juvenil*
-- **González-Biedma, L., Deneken, M., & González, J. (2025)** — *Socioeconomic determinants of university admission in Chile.* *Revista Educación Iberoamericana: Investigación y Reflexión*, 1(1), 59–69.
+- **González-Biedma, L. (forthcoming-accepted)** — *Delinquency profiles among convicted youth in Chile: Latent Class Analysis and associated sociodemographic factors.* *Señales para la reinserción social juvenil* Señales para la reinserción social. https://www.reinsercionjuvenil.gob.cl/revista-senales/ 
+- **González-Biedma, L., Deneken, M., & González, J. (2025)** — *Socioeconomic determinants of university admission in Chile.* *Revista Educación Iberoamericana: Investigación y Reflexión*, 1(1), 59–69. Available: https://ciieduc.cl/vol-1-num-1/
   
 ---
 
@@ -39,5 +39,4 @@ I’m a **Chilean sociologist (MA, Pontificia Universidad Católica de Chile)** 
 ## Contact
 - Email: **lucasgonb@alumni.uc.cl**
 - LinkedIn: **www.linkedin.com/in/lucas-gonzález-biedma-a298822b0**
-- MA thesis (PUC repository): *“Vicarious memories and political identities: Intergenerational transmission of memories about the coup d'état and military dictatorship in Chile's first post-dictatorship generation”*  
-Avialable: https://repositorio.uc.cl/handle/11534/80935](https://doi.org/10.7764/TesisUC/SOC/80935
+- MA thesis graded with highest distinction (PUC repository): *“Vicarious memories and political identities: Intergenerational transmission of memories about the coup d'état and military dictatorship in Chile's first post-dictatorship generation”*  Avialable: https://repositorio.uc.cl/handle/11534/80935](https://doi.org/10.7764/TesisUC/SOC/80935
