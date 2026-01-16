@@ -29,7 +29,7 @@ I’m a **Chilean sociologist (MA, Pontificia Universidad Católica de Chile)** 
 ---
 
 ## Tools & methods
-- **RStudio**: data cleaning, transformation, visualization, descriptive & inferential statistics  
+- **R**: data cleaning, transformation, visualization, descriptive & inferential statistics  
 - **STATA**: data management and descriptive & inferential statistical analysis  
 - **NVivo / Atlas.ti**: qualitative coding and transcript analysis  
 - (Currently expanding): reproducible reporting and version control practices for open, auditable research
